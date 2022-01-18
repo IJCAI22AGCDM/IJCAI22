@@ -1,7 +1,7 @@
 ## Introduction For AGCDM 
 
 ### 1. Brief Introduction
-This repository contains AGCDM(Attention Gate Mechnism for Cognitive Diagnosis) based code recommendation models implemented in PyTorch and developed on Colab Pro, which can generate item response predictions for skills proficiency on latent ability level.
+This repository contains AGCDM(Attention Gate Mechnism for Cognitive Diagnosis) based cognitive diagnosis models implemented in PyTorch and developed on Colab Pro, which can generate item response predictions for skills proficiency on latent ability level.
 > How to run?
 * 1. Deploy our files on Colab. Download and Drag the three dataset in the Dataset Files.
 
